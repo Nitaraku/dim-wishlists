@@ -1,4 +1,4 @@
-title:Aegis PvE Endgame Wishlist v26.6.23.2
+title:Aegis PvE Endgame Wishlist v26.6.23.3
 description:Automatically generated DIM wishlist based on Aegis PvE Tierlist
 // Tierlist source: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY
 
