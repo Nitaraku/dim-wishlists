@@ -1,4 +1,4 @@
-title:Aegis PvE Endgame Wishlist - Main and Mag Perks v26.6.28.1
+title:Aegis PvE Endgame Wishlist - Main and Mag Perks v26.6.28.2
 description:Automatically generated DIM wishlist based on the Aegis PvE Tierlist. Uses Mag, Perk 1 and Perk 2.
 // Tierlist source: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY
 
@@ -598,7 +598,9 @@ dimwishlist:item=2965080304&perks=1431678320,3523296417,2890807135
 //Conspiracy Honed
 //notes:[Tier: S, Rank: 2] double perk fast vent style burst sniper, no ammo gen perk though
 dimwishlist:item=4062069077&perks=807993149,1546637391,3078487919
+dimwishlist:item=4062069077&perks=807993149,1546637391,1771339417
 dimwishlist:item=4062069077&perks=1092016998,1546637391,3078487919
+dimwishlist:item=4062069077&perks=1092016998,1546637391,1771339417
 
 //Synanceia
 //notes:[Tier: S, Rank: 2] Sharp Harvest with Eager interesting, also great for damage
