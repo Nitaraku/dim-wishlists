@@ -1,5 +1,5 @@
-title:Aegis PvE Endgame Wishlist - S/A and Untiered - Main Perks v26.6.28.2
-description:Automatically generated DIM wishlist for S tier, A tier and untiered weapons. Uses only the main Perk 1 and Perk 2 columns.
+title:Aegis PvE Endgame Wishlist: S/A Tiers | Only Traits v26.7.4.1
+description:Automatically generated DIM wishlist based on the Aegis PvE Tierlist for S&A Tier weapons. Uses only Trait 1 and Trait 2 columns.
 // Tierlist source: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY
 
 //No Hesitation
@@ -3855,54 +3855,6 @@ dimwishlist:item=3066945855&perks=3038247973,3640170453
 dimwishlist:item=3066945855&perks=3038247973,657025441
 dimwishlist:item=3066945855&perks=3038247973,4293542123
 
-//Opaque Hourglass
-//notes:no double damage but solid reload/damage perks
-dimwishlist:item=1553681400&perks=951095735,1089671869
-dimwishlist:item=1553681400&perks=951095735,2848615171
-dimwishlist:item=1553681400&perks=951095735,1771339417
-dimwishlist:item=1553681400&perks=3824105627,1089671869
-dimwishlist:item=1553681400&perks=3824105627,2848615171
-dimwishlist:item=1553681400&perks=3824105627,1771339417
-dimwishlist:item=1553681400&perks=4042220767,1089671869
-dimwishlist:item=1553681400&perks=4042220767,2848615171
-dimwishlist:item=1553681400&perks=4042220767,1771339417
-
-//Submersion
-//notes:cool add clear option
-dimwishlist:item=3524386983&perks=3300816228,3764420437
-dimwishlist:item=3524386983&perks=3300816228,124408337
-dimwishlist:item=3524386983&perks=3300816228,2978966579
-dimwishlist:item=3524386983&perks=4042220767,3764420437
-dimwishlist:item=3524386983&perks=4042220767,124408337
-dimwishlist:item=3524386983&perks=4042220767,2978966579
-dimwishlist:item=3524386983&perks=1570399071,3764420437
-dimwishlist:item=3524386983&perks=1570399071,124408337
-dimwishlist:item=3524386983&perks=1570399071,2978966579
-dimwishlist:item=1724104236&perks=3300816228,3764420437
-dimwishlist:item=1724104236&perks=3300816228,124408337
-dimwishlist:item=1724104236&perks=3300816228,2978966579
-dimwishlist:item=1724104236&perks=4042220767,3764420437
-dimwishlist:item=1724104236&perks=4042220767,124408337
-dimwishlist:item=1724104236&perks=4042220767,2978966579
-dimwishlist:item=1724104236&perks=1570399071,3764420437
-dimwishlist:item=1724104236&perks=1570399071,124408337
-dimwishlist:item=1724104236&perks=1570399071,2978966579
-
-//A Good Shout
-//notes:potential damage option if High Ground is usable on a boss
-dimwishlist:item=3615748501&perks=3987942396,2319119708
-dimwishlist:item=3615748501&perks=3987942396,2551157718
-dimwishlist:item=3615748501&perks=4042220767,2319119708
-dimwishlist:item=3615748501&perks=4042220767,2551157718
-dimwishlist:item=3615748501&perks=1134488199,2319119708
-dimwishlist:item=3615748501&perks=1134488199,2551157718
-dimwishlist:item=649691506&perks=3987942396,2319119708
-dimwishlist:item=649691506&perks=3987942396,2551157718
-dimwishlist:item=649691506&perks=4042220767,2319119708
-dimwishlist:item=649691506&perks=4042220767,2551157718
-dimwishlist:item=649691506&perks=1134488199,2319119708
-dimwishlist:item=649691506&perks=1134488199,2551157718
-
 //Uncivil Discourse
 //notes:BiS for LP for now
 dimwishlist:item=3146657389&perks=1421772400,555281244
@@ -3985,6 +3937,54 @@ dimwishlist:item=1715391576&perks=2859149211,3751912585
 dimwishlist:item=1715391576&perks=831391274,3081867624
 dimwishlist:item=1715391576&perks=831391274,4104185692
 dimwishlist:item=1715391576&perks=831391274,3751912585
+
+//Opaque Hourglass
+//notes:no double damage but solid reload/damage perks
+dimwishlist:item=1553681400&perks=951095735,1089671869
+dimwishlist:item=1553681400&perks=951095735,2848615171
+dimwishlist:item=1553681400&perks=951095735,1771339417
+dimwishlist:item=1553681400&perks=3824105627,1089671869
+dimwishlist:item=1553681400&perks=3824105627,2848615171
+dimwishlist:item=1553681400&perks=3824105627,1771339417
+dimwishlist:item=1553681400&perks=4042220767,1089671869
+dimwishlist:item=1553681400&perks=4042220767,2848615171
+dimwishlist:item=1553681400&perks=4042220767,1771339417
+
+//Submersion
+//notes:cool add clear option
+dimwishlist:item=3524386983&perks=3300816228,3764420437
+dimwishlist:item=3524386983&perks=3300816228,124408337
+dimwishlist:item=3524386983&perks=3300816228,2978966579
+dimwishlist:item=3524386983&perks=4042220767,3764420437
+dimwishlist:item=3524386983&perks=4042220767,124408337
+dimwishlist:item=3524386983&perks=4042220767,2978966579
+dimwishlist:item=3524386983&perks=1570399071,3764420437
+dimwishlist:item=3524386983&perks=1570399071,124408337
+dimwishlist:item=3524386983&perks=1570399071,2978966579
+dimwishlist:item=1724104236&perks=3300816228,3764420437
+dimwishlist:item=1724104236&perks=3300816228,124408337
+dimwishlist:item=1724104236&perks=3300816228,2978966579
+dimwishlist:item=1724104236&perks=4042220767,3764420437
+dimwishlist:item=1724104236&perks=4042220767,124408337
+dimwishlist:item=1724104236&perks=4042220767,2978966579
+dimwishlist:item=1724104236&perks=1570399071,3764420437
+dimwishlist:item=1724104236&perks=1570399071,124408337
+dimwishlist:item=1724104236&perks=1570399071,2978966579
+
+//A Good Shout
+//notes:potential damage option if High Ground is usable on a boss
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2551157718
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2551157718
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2551157718
+dimwishlist:item=649691506&perks=3987942396,2319119708
+dimwishlist:item=649691506&perks=3987942396,2551157718
+dimwishlist:item=649691506&perks=4042220767,2319119708
+dimwishlist:item=649691506&perks=4042220767,2551157718
+dimwishlist:item=649691506&perks=1134488199,2319119708
+dimwishlist:item=649691506&perks=1134488199,2551157718
 
 //Chattering Bone
 //notes:AO + KT, good kinetic perks, awkward Chaos pairing, good frame
